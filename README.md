@@ -1,6 +1,6 @@
 <h1>(～￣▽￣)～</h1>
 
-<h2>Table of Content<h2>
+<h2>Table of Content</h2>h2>
 
 - [Tóm tắt nội dung bài báo:](#tóm-tắt-nội-dung-bài-báo)
 - [Đánh giá ý kiến của TS](#đánh-giá-ý-kiến-của-ts)
